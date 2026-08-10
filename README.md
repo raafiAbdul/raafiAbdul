@@ -3,7 +3,7 @@ I am Abdul Raafi but you can call me Raf! I've been picking up Java and I'm curr
 
 ## 💻 Java Projects
 ### Beginner/Tutorial Projects
-So far, I've worked on some beginner projects from [roadmaps](https://roadmaps.sh):
+So far, I've worked on some beginner projects from [roadmaps](https://roadmap.sh):
 - 🎯 **[Number Guessing Game](https://github.com/raafiAbdul/number-guessing-game)** - Simple Java written CLI game
 - 📋 **[Task Tracker](https://github.com/raafiAbdul/task-tracker)** - Simple Java written CLI app that works with JSON files
 - 🔄 **[Unit Converter](https://github.com/raafiAbdul/unit-converter)** - Basic Unit Converter app demonstrating Spring MVC and Thymeleaf
