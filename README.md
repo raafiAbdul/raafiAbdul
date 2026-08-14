@@ -1,5 +1,5 @@
 ## Hello there people! 👋
-I am Abdul Raafi but you can call me Raf! I've been picking up Java and I'm currently learning about the various projects in the Spring ecosystem. I am still new to all of this but I love learning. And hey, feel free to connect with me on [LinkedIn profile](https://www.linkedin.com/in/abduraafiy).
+I am Abdul Raafi but you can call me Raf! I've been picking up Java and I'm currently learning about the various projects in the Spring ecosystem. I am still new to all of this but I love learning. And hey, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abduraafiy).
 
 ##  Java Projects
 ### Beginner/Tutorial Projects
