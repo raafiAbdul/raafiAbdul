@@ -2,16 +2,16 @@
 I am Abdul Raafi but you can call me Raf! I've been picking up Java and I'm currently learning about the various projects in the Spring ecosystem. I am still new to all of this but I love learning. And hey, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abduraafiy).
 
 ##  Java Projects
+### Planning to Deploy/Deployed
+-  **[Shift Scheduler API](https://github.com/raafiAbdul/shift-scheduler-api)** - REST API using Spring Boot, Spring Data JPA, Spring Security and PostgreSQL documented with Swagger UI
+-  **[Blogging Platform API (Migrated)](https://github.com/raafiAbdul/blogging-platform-api-migrated)** - REST API using Spring Boot, Spring Data JPA and PostgreSQL documented with Swagger UI
+
 ### Beginner/Tutorial Projects
 So far, I've worked on some beginner projects from [roadmaps](https://roadmap.sh):
 -  **[Blogging Platform API](https://github.com/raafiAbdul/blog-platform-api)** - REST API using Spring Boot, Spring Data JDBC and PostgreSQL
 -  **[Unit Converter](https://github.com/raafiAbdul/unit-converter)** - Basic Unit Converter app demonstrating Spring MVC and Thymeleaf
 -  **[Task Tracker](https://github.com/raafiAbdul/task-tracker)** - Simple Java written CLI app that works with JSON files
 -  **[Number Guessing Game](https://github.com/raafiAbdul/number-guessing-game)** - Simple Java written CLI game
-
-### Planning to Deploy/Deployed
--  **[Blogging Platform API (Migrated)](https://github.com/raafiAbdul/blogging-platform-api-migrated)** - REST API using Spring Boot, Spring Data JPA and PostgreSQL documented with Swagger UI
--  **[Shift Scheduler API](https://github.com/raafiAbdul/shift-scheduler-api)** - REST API using Spring Boot, Spring Data JPA, Spring Security and PostgreSQL documented with Swagger UI
 
 <!--
 **raafiAbdul/raafiAbdul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
