@@ -10,7 +10,8 @@ So far, I've worked on some beginner projects from [roadmaps](https://roadmap.sh
 -  **[Number Guessing Game](https://github.com/raafiAbdul/number-guessing-game)** - Simple Java written CLI game
 
 ### Planning to Deploy/Deployed
--  **[Blogging Platform API (Migrated)](https://github.com/raafiAbdul/blogging-platform-api-migrated)** - REST API using Spring Boot, Spring Data JPA and PostgreSQL
+-  **[Blogging Platform API (Migrated)](https://github.com/raafiAbdul/blogging-platform-api-migrated)** - REST API using Spring Boot, Spring Data JPA and PostgreSQL documented with Swagger UI
+-  **[Shift Scheduler API](https://github.com/raafiAbdul/shift-scheduler-api)** - REST API using Spring Boot, Spring Data JPA, Spring Security and PostgreSQL documented with Swagger UI
 
 <!--
 **raafiAbdul/raafiAbdul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
